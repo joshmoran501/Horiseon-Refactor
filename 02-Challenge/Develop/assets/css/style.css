@@ -4,6 +4,27 @@
     margin: 0;
 }
 
+/*a,p, and the float elements are used throughout the whole site so I have put them at the top*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/*All elements follow the order they are on the page left to right, top to bottom*/
 body {
     background-color: #d9dcd6;
 }
@@ -41,15 +62,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -59,16 +71,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Search engine optimization, online reputation management, and social media marketing all used the same formatting, so all 3 have been condensed into the content class and its various subsections*/
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +95,7 @@ p {
     font-size: 36px;
 }
 
+/*Lead generation, brand awareness, and cost management sections all used the same formatting, so all 3 have been condensed into the benefits class and its various subsections*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
