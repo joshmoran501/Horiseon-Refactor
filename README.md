@@ -16,6 +16,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 Link to HTML: https://github.com/joshmoran501/Homework-01/blob/main/02-Challenge/Develop/index.html
+
 Link to CSS: https://github.com/joshmoran501/Homework-01/blob/main/02-Challenge/Develop/assets/css/style.css
 
 Screenshot of page:
