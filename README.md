@@ -15,9 +15,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-Link to HTML: https://github.com/joshmoran501/Homework-01/blob/main/02-Challenge/Develop/index.html
+Link to HTML: https://github.com/joshmoran501/Homework-01/blob/5fa66a2004922a1b5f41a41ce93527da6f1c55ee/index.html
 
-Link to CSS: https://github.com/joshmoran501/Homework-01/blob/main/02-Challenge/Develop/assets/css/style.css
+Link to CSS: https://github.com/joshmoran501/Homework-01/blob/5fa66a2004922a1b5f41a41ce93527da6f1c55ee/assets/css/style.css
 
 Screenshot of page:
 ![image](https://user-images.githubusercontent.com/104108180/166090112-9ed5777f-f778-40f8-8e89-63ad106e3f77.png)
