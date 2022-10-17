@@ -1,4 +1,4 @@
-# Homework-01
+# Homework-01 Horiseon Refactor
 
 Refactoring of code for Horiseon Marketing webpage. 
 
